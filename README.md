@@ -17,7 +17,7 @@ The sample is male-dominated, with female respondents representing a substantial
 ---
 
 ### Age Distribution
-![Age distribution](visuals/age distribution.png)
+![Age distribution](visuals/age%20distribution.png)
 
 **Insight:**  
 The majority of respondents are under the age of 35, indicating a predominantly young sample.
@@ -25,7 +25,7 @@ The majority of respondents are under the age of 35, indicating a predominantly 
 ---
 
 ### Ethnicity Distribution
-![Ethnicity distribution](visuals/ethnicity_distribution.png)
+![Ethnicity distribution](visuals/ethnicity%20distribution.png)
 
 **Insight:**  
 The ethnic distribution shows limited diversity, with one group representing the majority of respondents.
@@ -33,7 +33,7 @@ The ethnic distribution shows limited diversity, with one group representing the
 ---
 
 ### Highest Level of Education
-![Education distribution](visuals/highest_level_of_education.png)
+![Education distribution](visuals/highest%20level%20of%20education.png)
 
 **Insight:**  
 Most respondents have completed at least secondary or higher education, suggesting a relatively educated sample.
@@ -41,7 +41,7 @@ Most respondents have completed at least secondary or higher education, suggesti
 ---
 
 ### Current Employment Status
-![Employment status](visuals/current_employment_status.png)
+![Employment status](visuals/current%20employment%20status.png)
 
 **Insight:**  
 A large portion of respondents are either employed or studying, indicating active participation in the workforce or education system.
@@ -49,7 +49,7 @@ A large portion of respondents are either employed or studying, indicating activ
 ---
 
 ### Household Income Distribution
-![Income distribution](visuals/my_entire_household_income_before_taxes_in_2015.png)
+![Income distribution](visuals/my%20entire%20household%20income%20before%20taxes%20in%202015.png)
 
 **Insight:**  
 Household income levels are distributed across multiple ranges, with a higher concentration in the lower to middle income brackets.
