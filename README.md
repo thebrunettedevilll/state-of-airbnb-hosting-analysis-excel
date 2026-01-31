@@ -17,7 +17,7 @@ The sample is male-dominated, with female respondents representing a substantial
 ---
 
 ### Age Distribution
-![Age distribution](visuals/age_distribution.png)
+![Age distribution](visuals/age distribution.png)
 
 **Insight:**  
 The majority of respondents are under the age of 35, indicating a predominantly young sample.
