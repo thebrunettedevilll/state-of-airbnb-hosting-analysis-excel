@@ -7,6 +7,13 @@ This project presents an exploratory analysis of survey data, focusing on the de
 - Format: Excel (.xlsx)
 - Method: Data aggregation using pivot tables
 
+## Pivot Table Analysis
+Pivot tables were used to explore relationships between demographic and socio-economic factors and respondents’ overall impression of Airbnb.
+
+Specifically, income levels were analyzed against overall platform perception to identify patterns in user sentiment.
+
+The analysis shows that respondents across higher income groups tend to report more positive impressions, with “Very Good” and “Excellent” ratings being dominant across all income brackets. Neutral and negative responses remain relatively low.
+
 ## Visual Analysis
 
 ### Gender Distribution
